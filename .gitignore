@@ -1,0 +1,25 @@
+# Dependency directories
+node_modules/
+.history/
+
+# Optional: Logs and runtime data
+logs/
+*.log
+npm-debug.log*
+
+# Optional: OS generated files
+.DS_Store
+Thumbs.db
+
+# Optional: Editor directories and files
+.vscode/
+.idea/
+
+# Optional: Environment-specific files
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Optional: Build output
+/build/
